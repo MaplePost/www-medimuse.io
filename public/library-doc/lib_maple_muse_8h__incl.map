@@ -1,0 +1,20 @@
+<map id="/tmp/tmp.RKK8zw89sg/src/main/cpp/include/libMapleMuse.h" name="/tmp/tmp.RKK8zw89sg/src/main/cpp/include/libMapleMuse.h">
+<area shape="rect" id="node3" href="$_maple_platform_8h.html" title="MaplePlatform.h" alt="" coords="95,109,213,136"/>
+<area shape="rect" id="node5" href="$_plugin_headers_8h.html" title="PluginHeaders.h" alt="" coords="236,109,355,136"/>
+<area shape="rect" id="node29" href="$_global_types_8h.html" title="GlobalTypes.h" alt="" coords="2439,259,2546,285"/>
+<area shape="rect" id="node30" href="$_i_state_message_8h.html" title="IStateMessage.h" alt="" coords="2859,109,2980,136"/>
+<area shape="rect" id="node31" href="$_messaging_queue_listener_8h.html" title="MessagingQueueListener.h" alt="" coords="3004,109,3184,136"/>
+<area shape="rect" id="node32" href="$_i_maple_object_8h.html" title="IMapleObject.h" alt="" coords="3208,109,3319,136"/>
+<area shape="rect" id="node33" href="$_i_looping_transport_8h.html" title="ILoopingTransport.h" alt="" coords="3343,109,3480,136"/>
+<area shape="rect" id="node34" href="$_i_note_object_8h.html" title="INoteObject.h" alt="" coords="3504,109,3607,136"/>
+<area shape="rect" id="node35" href="$_note_player_8h.html" title="NotePlayer.h" alt="" coords="3631,109,3730,136"/>
+<area shape="rect" id="node36" href="$_i_bio_signal_processor_8h.html" title="IBioSignalProcessor.h" alt="" coords="2475,184,2625,211"/>
+<area shape="rect" id="node37" href="$_i_bio_signal_processor_callback_8h.html" title="IBioSignalProcessorCallback.h" alt="" coords="2650,184,2853,211"/>
+<area shape="rect" id="node38" href="$_i_input_signal_8h.html" title="IInputSignal.h" alt="" coords="2877,184,2980,211"/>
+<area shape="rect" id="node39" href="$_i_input_track_8h.html" title="IInputTrack.h" alt="" coords="3754,109,3853,136"/>
+<area shape="rect" id="node40" href="$_i_maple_model_8h.html" title="IMapleModel.h" alt="" coords="3877,109,3983,136"/>
+<area shape="rect" id="node41" href="$_i_sequence_channel_8h.html" title="ISequenceChannel.h" alt="" coords="4008,109,4151,136"/>
+<area shape="rect" id="node42" href="$_generic_bio_signal_processor_8hpp.html" title="GenericBioSignalProcessor.hpp" alt="" coords="2525,109,2732,136"/>
+<area shape="rect" id="node43" href="$_midi_controller_8hpp.html" title="MidiController.hpp" alt="" coords="4175,109,4301,136"/>
+<area shape="rect" id="node44" href="$_i_plugin_8h.html" title="IPlugin.h" alt="" coords="4325,109,4399,136"/>
+</map>

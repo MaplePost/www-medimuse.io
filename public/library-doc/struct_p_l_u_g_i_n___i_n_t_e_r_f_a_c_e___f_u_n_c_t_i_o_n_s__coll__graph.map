@@ -1,0 +1,3 @@
+<map id="PLUGIN_INTERFACE_FUNCTIONS" name="PLUGIN_INTERFACE_FUNCTIONS">
+<area shape="rect" id="node2" href="$struct_medi_muse_plugin_details.html" title="{MediMusePluginDetails\n|+ apiVersion\l+ className\l+ pluginName\l+ pluginVersion\l+ pluginAuthor\l+ pluginDescription\l+ minorVersion\l+ majorVersion\l+ pluginType\l+ bioSignalType\l+ libraryHandle\l+ message_subscriptions\l+ message_emmisions\l+ emmisions_length\l+ subscriptions_length\l|}" alt="" coords="41,5,212,288"/>
+</map>

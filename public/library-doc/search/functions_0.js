@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['absolutecenttohertz',['absoluteCentToHertz',['../classmedimuse_1_1_midi_controller.html#ae7fc9f137ab055b3a9deb851f4033278',1,'medimuse::MidiController::absoluteCentToHertz()'],['../class_midi_controller.html#ae7fc9f137ab055b3a9deb851f4033278',1,'MidiController::absoluteCentToHertz()']]],
+  ['add_5fbiosignal_5fprocessor',['add_biosignal_processor',['../class_i_input_signal.html#aa1c59624d7f462661f97fdac819f848a',1,'IInputSignal::add_biosignal_processor()'],['../classmedimuse_1_1_i_input_signal.html#ae7db9d2b119265755f63a682ac65d792',1,'medimuse::IInputSignal::add_biosignal_processor()']]],
+  ['addnote',['addNote',['../class_i_sequence_channel.html#ad5a0539119a78a710a0d45ad5232e1c5',1,'ISequenceChannel::addNote()'],['../classmedimuse_1_1_i_sequence_channel.html#a814f0571659b6de3134a1916ed18a484',1,'medimuse::ISequenceChannel::addNote()']]],
+  ['addnotes',['addNotes',['../class_i_sequence_channel.html#a130849d197d76e6b265c9634ecf626d6',1,'ISequenceChannel::addNotes(double position, const INoteObject notes[], int numberOfNotes)=0'],['../class_i_sequence_channel.html#abf1c73a2b5e65d3c4910816cf68eaa39',1,'ISequenceChannel::addNotes(NoteStackInstance noteStack)=0'],['../classmedimuse_1_1_i_sequence_channel.html#a8d992d7c0348abe6cd68f1fdb3049fbd',1,'medimuse::ISequenceChannel::addNotes(double position, const INoteObject notes[], int numberOfNotes)=0'],['../classmedimuse_1_1_i_sequence_channel.html#afc5304ad627168fa876ce9a029b18e6b',1,'medimuse::ISequenceChannel::addNotes(NoteStackInstance noteStack)=0']]]
+];

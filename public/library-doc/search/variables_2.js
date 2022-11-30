@@ -1,0 +1,13 @@
+var searchData=
+[
+  ['cachebuffer',['cacheBuffer',['../class_generic_float_bio_signal_processor.html#a7d14ebe16f7904018cecaa327304b96b',1,'GenericFloatBioSignalProcessor::cacheBuffer()'],['../classmedimuse_1_1_generic_float_bio_signal_processor.html#a8639eacde95634420d747552ca3b1aaf',1,'medimuse::GenericFloatBioSignalProcessor::cacheBuffer()']]],
+  ['change',['change',['../struct_transport_state.html#a6a549066315dcfbd47e5dd5c747a56fd',1,'TransportState::change()'],['../structmedimuse_1_1_transport_state.html#a14c7d0cc6a90c0c2e399c1f8426b2593',1,'medimuse::TransportState::change()']]],
+  ['channel',['channel',['../struct_maple_midi_note_event.html#aa5947435d3938a1b42a16648d41aad8d',1,'MapleMidiNoteEvent::channel()'],['../struct_maple_m_i_d_i_c_c_out_event.html#a1f2a199ac1b414ca0868ea2e12dadacf',1,'MapleMIDICCOutEvent::channel()'],['../structmedimuse_1_1_maple_midi_note_event.html#a19ef1339936b01b60311e2a6baeab9ed',1,'medimuse::MapleMidiNoteEvent::channel()'],['../structmedimuse_1_1_maple_m_i_d_i_c_c_out_event.html#aa72f20da2facf99f2e88b6c7a137054b',1,'medimuse::MapleMIDICCOutEvent::channel()']]],
+  ['channel_5fbyte_5flengths',['CHANNEL_BYTE_LENGTHS',['../classmedimuse_1_1_midi_controller.html#aae120c74334e3229f1a7edb95ba71f08',1,'medimuse::MidiController::CHANNEL_BYTE_LENGTHS()'],['../class_midi_controller.html#aae120c74334e3229f1a7edb95ba71f08',1,'MidiController::CHANNEL_BYTE_LENGTHS()']]],
+  ['channel_5fsize',['channel_size',['../struct_maple_audio_buffer.html#a9a312c375eadd64e993289447ad76258',1,'MapleAudioBuffer::channel_size()'],['../structmedimuse_1_1_maple_audio_buffer.html#af9d3d1b2e7bab37d3d3996e40dde7a63',1,'medimuse::MapleAudioBuffer::channel_size()']]],
+  ['chord',['chord',['../struct_maple_event.html#ac4f8ef21b2ae19a8ed3c5dd322b1660e',1,'MapleEvent::chord()'],['../structmedimuse_1_1_maple_event.html#ae621100f6a1bc8b2d9d5bcd67e5a30a3',1,'medimuse::MapleEvent::chord()']]],
+  ['classname',['className',['../struct_medi_muse_plugin_details.html#a184aa10a46e3d663f784c1623d80f35f',1,'MediMusePluginDetails']]],
+  ['clock',['clock',['../struct_transport_state.html#a2b55a08742e392003b72d0b82c3967c3',1,'TransportState::clock()'],['../structmedimuse_1_1_transport_state.html#a5f9ff245e42078c3638aa1f55fbc7876',1,'medimuse::TransportState::clock()']]],
+  ['controlnumber',['controlNumber',['../struct_maple_m_i_d_i_c_c_out_event.html#a3dbc2db94e4ae9d497ad0a5241fa5cc5',1,'MapleMIDICCOutEvent::controlNumber()'],['../structmedimuse_1_1_maple_m_i_d_i_c_c_out_event.html#af844392c82b3bd017690e23cfd434376',1,'medimuse::MapleMIDICCOutEvent::controlNumber()']]],
+  ['create',['create',['../struct_p_l_u_g_i_n___i_n_t_e_r_f_a_c_e___f_u_n_c_t_i_o_n_s.html#a20a0764622a9880c49158b135868c75f',1,'PLUGIN_INTERFACE_FUNCTIONS']]]
+];

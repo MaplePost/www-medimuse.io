@@ -1,0 +1,9 @@
+<map id="IMapleObject" name="IMapleObject">
+<area shape="rect" id="node3" href="$class_i_bio_signal_processor.html" title="{IBioSignalProcessor\&lt; T \&gt;\n||+ ~IBioSignalProcessor()\l+ getRhythmicSequenceChannel()\l+ getMelodicSequenceChannel()\l+ getBioSignalType()\l+ process_data_tick()\l+ getProcessorDescription()\l+ sendStateMessage()\l+ sendStateMessage()\l+ sendStateMessage()\l+ sendStateMessage()\l+ sendStateMessage()\l+ subscribe_to_processor\l_broadcast()\l}" alt="" coords="5,623,228,876"/>
+<area shape="rect" id="node4" href="$class_i_input_signal.html" title="Public interface for a real time biometric input signal. " alt="" coords="252,637,459,861"/>
+<area shape="rect" id="node6" href="$class_i_looping_transport.html" title="A looping transport allows play / pause, looping , seeking capabilities for a sequence or track..." alt="" coords="483,542,638,957"/>
+<area shape="rect" id="node7" href="$class_i_maple_model.html" title="Class IMapleModel base class and interface file for MapleModel. " alt="" coords="663,403,904,1096"/>
+<area shape="rect" id="node8" href="$class_i_sequence_channel.html" title="{ISequenceChannel\n||+ ~ISequenceChannel()\l+ addNotes()\l+ addNotes()\l+ addNote()\l+ clearNotes()\l+ clearAllNotes()\l+ getNoteMap()\l}" alt="" coords="929,667,1089,832"/>
+<area shape="rect" id="node2" href="$class_messaging_queue_listener.html" title="An interface for a message listener. " alt="" coords="462,5,659,97"/>
+<area shape="rect" id="node5" href="$class_i_input_track.html" title="Public interface for an input track of biometric data. " alt="" coords="295,1144,415,1295"/>
+</map>

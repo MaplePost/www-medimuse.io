@@ -1,0 +1,4 @@
+<map id="medimuse::MapleNoteExpressionTextEvent" name="medimuse::MapleNoteExpressionTextEvent">
+<area shape="rect" id="node2" href="$structmedimuse_1_1_maple_expressive_event.html" title="Expressive event for note. " alt="" coords="19,189,210,281"/>
+<area shape="rect" id="node3" href="$structmedimuse_1_1_maple_midi_note_event.html" title="{medimuse::MapleMidiNoteEvent\n|+ channel\l+ pitch\l+ tuning\l+ velocity\l|}" alt="" coords="9,5,220,127"/>
+</map>

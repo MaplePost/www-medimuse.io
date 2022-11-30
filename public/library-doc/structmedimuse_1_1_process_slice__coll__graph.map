@@ -1,0 +1,16 @@
+<map id="medimuse::ProcessSlice" name="medimuse::ProcessSlice">
+<area shape="rect" id="node2" href="$structmedimuse_1_1_maple_audio_buffer.html" title="Audio buffer. " alt="" coords="525,819,719,940"/>
+<area shape="rect" id="node3" href="$structmedimuse_1_1_maple_event_list.html" title="Event list structure. " alt="" coords="743,841,923,918"/>
+<area shape="rect" id="node4" href="$structmedimuse_1_1_maple_event.html" title="Event structure. " alt="" coords="753,620,912,756"/>
+<area shape="rect" id="node5" href="$structmedimuse_1_1_maple_note_on_event.html" title="Note&#45;on event specific data. " alt="" coords="5,313,209,390"/>
+<area shape="rect" id="node6" href="$structmedimuse_1_1_maple_midi_note_event.html" title="{medimuse::MapleMidiNoteEvent\n|+ channel\l+ pitch\l+ tuning\l+ velocity\l|}" alt="" coords="246,5,457,127"/>
+<area shape="rect" id="node8" href="$structmedimuse_1_1_maple_poly_pressure_event.html" title="PolyPressure event specific data. " alt="" coords="217,305,419,397"/>
+<area shape="rect" id="node12" href="$structmedimuse_1_1_maple_expressive_event.html" title="Expressive event for note. " alt="" coords="356,189,547,281"/>
+<area shape="rect" id="node14" href="$structmedimuse_1_1_maple_note_off_event.html" title="Note&#45;off event specific data. " alt="" coords="650,197,855,274"/>
+<area shape="rect" id="node7" href="$structmedimuse_1_1_maple_m_i_d_i_c_c_out_event.html" title="Legacy MIDI CC Out event specific data. " alt="" coords="913,421,1107,557"/>
+<area shape="rect" id="node9" href="$structmedimuse_1_1_maple_data_event.html" title="Data event specific data. Used in MapleEvent (union)*/. " alt="" coords="1131,429,1318,550"/>
+<area shape="rect" id="node10" href="$structmedimuse_1_1_maple_scale_event.html" title="Scale event specific data. " alt="" coords="1342,429,1534,550"/>
+<area shape="rect" id="node11" href="$structmedimuse_1_1_maple_note_expression_value_event.html" title="Expression value event for note. " alt="" coords="323,443,542,535"/>
+<area shape="rect" id="node15" href="$structmedimuse_1_1_maple_note_expression_text_event.html" title="{medimuse::MapleNoteExpression\lTextEvent\n||}" alt="" coords="566,443,785,535"/>
+<area shape="rect" id="node13" href="$structmedimuse_1_1_maple_chord_event.html" title="Chord event specific data. " alt="" coords="1558,421,1753,557"/>
+</map>

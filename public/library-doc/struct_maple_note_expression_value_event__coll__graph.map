@@ -1,0 +1,4 @@
+<map id="MapleNoteExpressionValueEvent" name="MapleNoteExpressionValueEvent">
+<area shape="rect" id="node2" href="$struct_maple_expressive_event.html" title="Expressive event for note. " alt="" coords="19,189,175,267"/>
+<area shape="rect" id="node3" href="$struct_maple_midi_note_event.html" title="{MapleMidiNoteEvent\n|+ channel\l+ pitch\l+ tuning\l+ velocity\l|}" alt="" coords="25,5,168,127"/>
+</map>
