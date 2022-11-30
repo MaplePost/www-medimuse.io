@@ -1,33 +1,25 @@
 ---
+// Layouts
+import PageTemplate from "../layouts/PageTemplate.astro";
+
 // Component Imports
-
 // Sections
-
 // Main parts
-
 // UI/UX extra bits
+
+const title = "MediMuse.io - 2022";
+const description = "Developer and Artifact repository for MediMuse Software.";
+const themeColor = "#FAFAFA";
 ---
 
-<!DOCTYPE html>
-<html class="no-js" lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<title>MediMuse 2022</title>
-		<meta name="description" content="" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-
-		<meta name="theme-color" content="#fafafa" />
-	</head>
-
-	<body>
-		<!--[if IE]>
-		<p class="browserupgrade">
-			You are using an <strong>outdated</strong> browser. Please
-			<a href="https://browsehappy.com/">upgrade your browser</a> to improve
-			your experience and security.
+<PageTemplate title={title} description={description} themeColor={themeColor}>
+	<article class="flex flex-col h-full justify-center">
+		<p class="font-montserrat font-bold font text-lg leading-4">
+			MediMuse LLC
 		</p>
-		<![endif]-->
-
-		<p>Under Construction</p>
-	</body>
-</html>
+		<p class="font-montserrat font-medium text-sm">© 2022</p>
+		<p class="mt-2 font-montserrat font text-xs">
+			medimuse.io · developer & artifact portal
+		</p>
+	</article>
+</PageTemplate>
