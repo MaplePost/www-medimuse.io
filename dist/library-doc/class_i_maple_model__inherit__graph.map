@@ -1,0 +1,4 @@
+<map id="IMapleModel" name="IMapleModel">
+<area shape="rect" id="node2" href="$class_i_maple_object.html" title="The base object for all factory generated objects. " alt="" coords="35,145,217,355"/>
+<area shape="rect" id="node3" href="$class_messaging_queue_listener.html" title="An interface for a message listener. " alt="" coords="27,5,225,97"/>
+</map>

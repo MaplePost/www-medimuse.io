@@ -1,0 +1,4 @@
+<map id="GenericFloatBioSignalProcessor" name="GenericFloatBioSignalProcessor">
+<area shape="rect" id="node2" href="$class_i_bio_signal_processor_callback.html" title="{IBioSignalProcessorCallback\l\&lt; float \&gt;\n||+ ~IBioSignalProcessorCallback()\l+ process_data_point()\l+ process_state_message()\l}" alt="" coords="32,175,251,296"/>
+<area shape="rect" id="node3" href="$class_i_bio_signal_processor_callback.html" title="Public interface for a biometric signal processor instance. " alt="" coords="30,5,253,112"/>
+</map>

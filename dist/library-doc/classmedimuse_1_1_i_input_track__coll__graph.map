@@ -1,0 +1,5 @@
+<map id="medimuse::IInputTrack&lt; T &gt;" name="medimuse::IInputTrack&lt; T &gt;">
+<area shape="rect" id="node2" href="$classmedimuse_1_1_i_input_signal.html" title="{medimuse::IInputSignal\&lt; T \&gt;\n||+ ~IInputSignal()\l+ data_tick()\l+ get_frequency()\l+ set_frequency()\l+ get_dimensionality()\l+ set_dimensionality()\l+ get_biosignal_type()\l+ add_biosignal_processor()\l+ remove_biosignal_processor()\l+ clearall_biosignal\l_processor()\l}" alt="" coords="5,417,212,641"/>
+<area shape="rect" id="node3" href="$classmedimuse_1_1_i_maple_object.html" title="The base object for all factory generated objects. " alt="" coords="17,160,200,369"/>
+<area shape="rect" id="node4" href="$classmedimuse_1_1_messaging_queue_listener.html" title="An interface for a message listener. " alt="" coords="10,5,207,112"/>
+</map>

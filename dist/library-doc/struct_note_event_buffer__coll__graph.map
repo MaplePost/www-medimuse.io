@@ -1,0 +1,4 @@
+<map id="NoteEventBuffer" name="NoteEventBuffer">
+<area shape="rect" id="node2" href="$struct_note_stack_instance.html" title="{NoteStackInstance\n|+ hitPPQ\l+ noteStackSize\l|}" alt="" coords="5,233,140,325"/>
+<area shape="rect" id="node3" href="$struct_i_note_object.html" title="The INoteObject represents musical notes. " alt="" coords="17,5,129,171"/>
+</map>
