@@ -10,7 +10,6 @@ export default defineConfig({
   build: {
     format: 'file'
   },
-  site: 'https://maplepost.github.io',
-  base: '/www-medimuse.io',
+  site: 'https://medimuse.io',
   integrations: [tailwind()]
 });
