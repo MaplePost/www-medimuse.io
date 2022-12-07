@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>ca.mcgill.rtaudio</groupId>
+  <artifactId>rtaudio-core-native-mac-X86_64</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221108130608</lastUpdated>
+  </versioning>
+</metadata>

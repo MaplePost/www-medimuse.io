@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 28 13:59:15 EST 2022
+gnarly-1.0-SNAPSHOT.jar>=
+gnarly-1.0-SNAPSHOT.pom>=
+gnarly-1.0-SNAPSHOT-sources.jar>=
+gnarly-1.0-SNAPSHOT-javadoc.jar>=

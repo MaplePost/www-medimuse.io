@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Nov 20 12:17:20 EST 2022
+medimuse-core-1.0-SNAPSHOT.jar>=
+medimuse-core-1.0-SNAPSHOT.pom>=
+medimuse-core-1.0-SNAPSHOT-sources.jar>=
